@@ -1,12 +1,11 @@
 # microservice-level-1
-Microservices workshop level 1
-Having following:
+Learned the following:
 <li>
-Spring boot
-database configuration
-Service Discovery
-Rest Template
-webClient
-@Bean
-@Autowired
+  <ul>Spring boot</ul>
+  <ul>database configuration</ul>
+  <ul>Service Discovery</ul>
+  <ul>Rest Template</ul>
+  <ul>webClient</ul>
+  <ul>@Bean</ul>
+  <ul>@Autowired</ul>
 </li>
